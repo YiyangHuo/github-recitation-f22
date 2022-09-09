@@ -1,2 +1,2 @@
 # github-recitation-f22
-Created 09-09
+Git Demo for recitation 09/09
